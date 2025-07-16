@@ -1,0 +1,68 @@
+--------------------------------info[13:09:39]--------------------------------
+System.Exception: 程序运行目录 : C:\Users\Administrator\Downloads\WestWorldVPN-For-Windows-1.06\WestWorldVPN.exe
+
+ 
+--------------------------------info[13:09:41]--------------------------------
+System.Exception: Main exe start up 1.06
+
+ 
+--------------------------------info[13:09:42]--------------------------------
+System.Exception: 网络请求地址：https://xbsj9855.xyz/system/default/init?config_version=
+
+ 
+--------------------------------info[13:10:20]--------------------------------
+System.Exception: 网络请求地址：https://xbsj9855.xyz/user/account/get-info
+
+ 
+--------------------------------info[13:10:21]--------------------------------
+System.Exception: 网络请求地址：https://xbsj9855.xyz/system/default/init?config_version=deaa13fb6e3cfe1adba3ba925efa8eab
+
+ 
+--------------------------------info[13:10:21]--------------------------------
+System.Exception: 网络请求地址：https://xbsj9855.xyz/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------info[13:11:21]--------------------------------
+System.Exception: 程序运行目录 : C:\Users\Administrator\Downloads\WestWorldVPN-For-Windows-1.06\WestWorldVPN.exe
+
+ 
+--------------------------------info[13:11:22]--------------------------------
+System.Exception: 网络请求地址：https://xbsj9855.xyz/user/account/get-info
+
+ 
+--------------------------------info[13:11:25]--------------------------------
+System.Exception: 网络请求地址：https://xbsj9855.xyz/system/default/init?config_version=deaa13fb6e3cfe1adba3ba925efa8eab
+
+ 
+--------------------------------info[13:11:26]--------------------------------
+System.Exception: 网络请求地址：https://xbsj9855.xyz/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------info[13:12:01]--------------------------------
+System.Exception: 网络请求地址：https://xbsj9855.xyz/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------info[13:12:15]--------------------------------
+System.Exception: PAC Webserver prefixes http://127.0.0.1:21883/pac/
+
+ 
+--------------------------------info[13:12:15]--------------------------------
+System.Exception: PAC Webserver at 127.0.0.1:21883
+
+ 
+--------------------------------info[13:12:15]--------------------------------
+System.Exception: PAC Webserver running...
+
+ 
+--------------------------------info[13:23:26]--------------------------------
+System.Exception: 网络请求地址：https://xbsj9855.xyz/user/account/get-info
+
+ 
+--------------------------------info[13:23:28]--------------------------------
+System.Exception: 网络请求地址：https://xbsj9855.xyz/system/default/init?config_version=ee85cc05bd689cd92d08a08739d48d93
+
+ 
+--------------------------------info[13:23:28]--------------------------------
+System.Exception: 网络请求地址：https://xbsj9855.xyz/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
